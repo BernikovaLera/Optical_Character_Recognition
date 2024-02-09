@@ -13,8 +13,11 @@ OCR (Optical character recognition) is the mechanical or electronic translation 
 
 2. Installing pytesseract:(https://tesseract-ocr.github.io/tessdoc/Installation.html)
    
-    Install the program from here:(https://github.com/UB-Mannheim/tesseract/wiki)
+   Install the program from here:(https://github.com/UB-Mannheim/tesseract/wiki)
    
-3. Installing OpenCV (cv2):
+   We enter it into the terminal:
+   ```pip install pytesseract```
+   
+4. Installing OpenCV (cv2):
    
     ```pip install opencv-python```
